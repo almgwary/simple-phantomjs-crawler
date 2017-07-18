@@ -1,0 +1,13 @@
+{
+  "name": "simple-phantomj-crawler",
+  "version": "0.0.1",
+  "description": "Simple  Phantomjs Crawler to get a product name, price and image  from amazon product page.",
+  "main": "server.js",
+  "author": "almgwaryfci@gmail.com",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "phantom": "^4.0.5",
+    "request": "latest"
+  }
+}
