@@ -1,5 +1,5 @@
 {
-  "name": "simple-phantomj-crawler",
+  "name": "simple-phantomjs-crawler",
   "version": "0.0.1",
   "description": "Simple  Phantomjs Crawler to get a product name, price and image  from amazon product page.",
   "main": "server.js",
